@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bookappointment/static/css/main.8ea340c2.css",
+    "main.js": "/bookappointment/static/js/main.95331981.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bookappointment/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero_img.jpg": "/bookappointment/static/media/hero_img.66e15583e476b06470b5.jpg",
+    "static/media/docter.jpg": "/bookappointment/static/media/docter.614720ae41c86381487f.jpg",
+    "static/media/team-member01.jpg": "/bookappointment/static/media/team-member01.6d86a8e9a861882a56b4.jpg",
+    "static/media/team-member02.jpg": "/bookappointment/static/media/team-member02.e6892cdaac15773320b0.jpg",
+    "static/media/home-dentist-img-02.jpg": "/bookappointment/static/media/home-dentist-img-02.824da5c12fc0aa1e9157.jpg",
+    "static/media/team-member03.jpg": "/bookappointment/static/media/team-member03.173cbe3ac1f0d4b2e365.jpg",
+    "static/media/icon05-free-img.png": "/bookappointment/static/media/icon05-free-img.c0676c3d90923507577f.png",
+    "static/media/icon03-free-img.png": "/bookappointment/static/media/icon03-free-img.34de75ca4b7eaa34749e.png",
+    "static/media/icon04-free-img.png": "/bookappointment/static/media/icon04-free-img.2539d1be3b979317bfb1.png",
+    "static/media/dental-site-logo.svg": "/bookappointment/static/media/dental-site-logo.cba443337cafe9d727c1e143d9961e75.svg",
+    "index.html": "/bookappointment/index.html",
+    "main.8ea340c2.css.map": "/bookappointment/static/css/main.8ea340c2.css.map",
+    "main.95331981.js.map": "/bookappointment/static/js/main.95331981.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bookappointment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea340c2.css",
+    "static/js/main.95331981.js"
+  ]
+}
